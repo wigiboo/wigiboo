@@ -1,6 +1,6 @@
 ## Hi there 👋  
 
-<img src="=https://media1.tenor.com/m/KGhz7poU1eIAAAAd/winnie-pooh-matrix.gif" width="60" />
+<img src="https://media.tenor.com/4bzJ3uCozhYAAAAd/winnie-pooh-matrix-hacker.gif" width="300" />
 
 I’m **Luigi**, a Computer Science graduate who loves building and experimenting with code.  
 
