@@ -1,4 +1,4 @@
-## Hi there 👋 I’m **Luigi**, a Computer Science graduate who loves building and experimenting with code.
+## Hi there 👋 I’m **Luigi**, a Computer Science graduate who loves building and experimenting with my life
 
 -  I’m currently learning **C++** and diving deeper into backend development
 -  I’m open to collaborating on small projects or anything fun and creative
